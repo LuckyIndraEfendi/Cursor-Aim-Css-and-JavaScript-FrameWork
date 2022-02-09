@@ -2,6 +2,8 @@
 
 <h1> How To Use?</h1>
 
+```bash
+composer install
 ```
 
 Buat database di Phpmyadmin dan ubah konfigurasi database di `application/config/database.php`.
