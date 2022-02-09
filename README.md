@@ -18,7 +18,7 @@ Buat Link CSS yang menuju ke arah Css kamu `application/config/database.php`.
 ```
 
 Konfigurasi Style CSS Kalian Seperti Di Bawah ini `application/config/database.php`.
-```html
+```css
 body {
   background: black;
 }
