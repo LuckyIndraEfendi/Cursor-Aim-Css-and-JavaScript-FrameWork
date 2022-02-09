@@ -1,25 +1,19 @@
 
 <h1> How To Use?</h1>
 
-```bash
-composer install
+Buat Link CSS yang menuju ke arah Css kamu `application/config/database.php`.
+```css
+ <link rel="stylesheet" href="style.css" />
 ```
 
-Buat database di Phpmyadmin dan ubah konfigurasi database di `application/config/database.php`.
+
+
+Letakkan Div yang mempunyai class cursor di awal saat pembuatan website Cth : `application/config/database.php`.
 
 ```html 
-<!DOCTYPE html>
-<html lang="en">
-  <head>
-    <meta charset="UTF-8" />
-    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Document</title>
-    <link rel="stylesheet" href="style.css" />
-  </head>
+
   <body>
     <div class="cursor"></div>
-    <script src="script.js"></script>
   </body>
-</html>
+
 ```
