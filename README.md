@@ -12,13 +12,13 @@ Letakkan Div yang mempunyai class cursor di awal saat pembuatan website cth :
 ```
 
 
-Buat Link CSS yang menuju ke arah Css kamu .
+Buat Link CSS yang menuju ke arah Css kamu `application/config/database.php`.
 ```html
  <link rel="stylesheet" href="style.css" />
 ```
 
-Konfigurasi Style CSS Kalian Seperti Di Bawah ini .
-```css
+Konfigurasi Style CSS Kalian Seperti Di Bawah ini `application/config/database.php`.
+```html
 body {
   background: black;
 }
@@ -88,4 +88,6 @@ document.addEventListener("mousemove", (e) => {
 
 
 
-<h2>Setelah Kalian Melakukan Seperti contoh yang diatas, kalian bisa melihat hasilnya seperti ini </h1>
+<h1>Setelah Kalian Melakukan Seperti contoh yang diatas, kalian bisa melihat hasilnya seperti ini ⬇</h1>
+
+  [https://luckyindraefendi.github.io/Cursor-Aim-Css-and-JavaScript-FrameWork/]
