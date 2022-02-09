@@ -90,4 +90,4 @@ document.addEventListener("mousemove", (e) => {
 
 <h1>Setelah Kalian Melakukan Seperti contoh yang diatas, kalian bisa melihat hasilnya seperti ini ⬇</h1>
 
-  [https://luckyindraefendi.github.io/Cursor-Aim-Css-and-JavaScript-FrameWork/]
+Lihat Hasil =   (https://luckyindraefendi.github.io/Cursor-Aim-Css-and-JavaScript-FrameWork/)
