@@ -7,7 +7,8 @@ composer install
 
 Buat database di Phpmyadmin dan ubah konfigurasi database di `application/config/database.php`.
 
-```<!DOCTYPE html>
+```php 
+<!DOCTYPE html>
 <html lang="en">
   <head>
     <meta charset="UTF-8" />
