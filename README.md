@@ -12,13 +12,13 @@ Letakkan Div yang mempunyai class cursor di awal saat pembuatan website cth :
 ```
 
 
-Buat Link CSS yang menuju ke arah Css kamu `application/config/database.php`.
+Buat Link CSS yang menuju ke arah Css kamu 
 ```html
  <link rel="stylesheet" href="style.css" />
 ```
 
-Konfigurasi Style CSS Kalian Seperti Di Bawah ini `application/config/database.php`.
-```html
+Konfigurasi Style CSS Kalian Seperti Di Bawah ini 
+```css
 body {
   background: black;
 }
